@@ -1,2 +1,2 @@
 # ife
-web study
+web study.
